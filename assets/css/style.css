@@ -1303,3 +1303,122 @@ main{
     position: relative;
     top: -2px;
 }
+
+.phnc-body-bg{
+  background: #F7F9F9;
+}
+
+.phnc-inputs{
+background: #f6f9f9;
+border: none;
+margin-bottom: 20px;
+}
+
+.phnc-inputs:focus{
+  background: #f6f9f9;
+}
+
+.phnc-inputs::placeholder{
+  color: #20435f;
+}
+
+.inst-intopic{
+font-size: 12px;
+display: block;
+}
+
+.m_s_bg{
+  background-color: #f6f9f9 !important;
+  padding-top: 30px;
+}
+
+.phnc_main-section{
+  padding-top: 10px;
+  padding-bottom: 60px;
+}
+
+.home_clr{
+color: #153150;
+}
+
+.phnc_john{
+border: none;
+}
+
+.second_p{
+  padding-bottom: 15px;
+  padding-top: 20px;
+}
+
+.third_com_form{
+  padding-bottom: 20px;
+}
+
+.phnc_interestedin{
+padding-left: 30px;
+padding-top:30px;
+}
+
+.morethanone{
+  padding-left: 30px;
+  font-size: 12px;
+}
+
+.radio_row{
+  padding-top: 20px;
+  padding-left: 30px;
+}
+
+.phnclastbtn{
+  margin-top: 30px;
+  margin-bottom: 30px;
+  margin-left: 30px;
+}
+
+.radio_hw{
+  height: 30px;
+  width: 30px;
+}
+
+.radio_labels{
+  padding-left: 14px;
+  padding-top: 8px;
+}
+
+.mr_leftbtm{
+  margin-bottom: 50px;
+}
+
+.last1_rw{
+  margin-left: 30px;
+}
+
+.last2_rw{
+  margin-left: 30px;
+}
+
+.housing-to-env{
+  margin-left: 60px;
+  margin-top: 25px;
+}
+
+.h2e{
+  margin-bottom: 17px;
+}
+
+.phnc_activities1{
+margin-top: 20px;
+margin-bottom: 20px;
+}
+
+.icon_mrg{
+  margin-right: 10px;
+}
+
+.side_rws{
+  margin-bottom: 15px;
+}
+
+.hbecomemember{
+  margin-bottom: 30px;
+}
